@@ -1,0 +1,19 @@
+{
+    "Products":[
+        {
+            "id": 1,
+            "name": "Apple Watch",
+            "price": 5234.99
+        },
+        {
+            "id": 2,
+            "name": "iPad",
+            "price": 2454.99
+        },
+        {
+            "id": 3,
+            "name": "Samsung S3",
+            "price": 1789.99
+        }
+    ]
+}
